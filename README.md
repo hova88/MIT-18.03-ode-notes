@@ -2,7 +2,7 @@
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-+   [个人CSDN 博客交流](https://blog.csdn.net/weixin_40664094)
++   [个人CSDN 博客:hova88](https://blog.csdn.net/weixin_40664094)
 
 <!-- break -->
 
@@ -23,14 +23,6 @@
 
 ## Contents （目录）
 
----
-
-
-
-----
+懒得整了，打开[Notes](https://github.com/hova88/MIT-18.03-ode-notes/tree/master/Notes),里面是按照课程排列好的。
 
 ## 对应课程
-
-![MIT_Linear-Algebra_1](/images/LA_whole_1.png)
-
-![MIT_Linear-Algebra_2](/images/LA_whole_2.png)
