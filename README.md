@@ -18,6 +18,7 @@
 注：个人认为笔记的作用是用来回想起课堂所讲的内容（细节），所以我的笔记风格为以老师讲课思路为准，板书为辅。建议刚开始听这门课的同学，不妨以此作为参照，再记录自己的想法。
 
 [MIT课程官方网站](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm)里有相关配套讲解[(Captions/transcript)和作业(Exams and solutions)](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm)，建议学有余力的同学动手练练，我也会在陆续写一些自己用python完成作业并可视化的博客（但愿能坚持下来orz）
+![MIT_Linear-Algebra_1](/images/overview.png)
 
 ----
 
@@ -26,5 +27,6 @@
 懒得整了，打开[Notes](https://github.com/hova88/MIT-18.03-ode-notes/tree/master/Notes),里面是按照课程排列好的。
 
 ## 对应课程
+开始上课了！
 
-![MIT_Linear-Algebra_1](/images/overview.png)
+![MIT_Linear-Algebra_2](/images/bilibili.png)
